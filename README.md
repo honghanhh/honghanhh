@@ -19,5 +19,5 @@
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=honghanhh&show_icons=true&hide_border=true" />
 
 [linkedin]: https://linkedin.com/in/hồng-hạnh-0b886212a/
-[instagram]: https://instagram.com/b_hnah/
+[instagram]: https://www.instagram.com/b_hnah_/
 [youtube]: https://www.youtube.com/channel/UCgyBpo_mrzZYYpX37y1LPhA
