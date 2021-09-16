@@ -1,6 +1,6 @@
 ### Hello, I'm HONG HANH <img src="https://media.giphy.com/media/KyCKg4Z3rmyrXMUNuk/source.gif" width="40"></h2>
 <img align='right' width="200">
-<p><em>Joint PhD at <a href="http://univ-larochelle.fr/">University of La Rochelle</a>  and <a href="https://www.ijs.si/ijsw/JSI">Jožef Stefan Institute</a>.
+<p><em>Joint PhD funding at <a href="http://univ-larochelle.fr/">University of La Rochelle</a>  and <a href="https://www.ijs.si/ijsw/JSI">Jožef Stefan Institute</a>.
 </em></p>
 
 [![Linkedin: hognhanhh](https://img.shields.io/badge/-HongHanh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/hồng-hạnh-0b886212a/)](linkedin.com/in/hồng-hạnh-0b886212a/)
