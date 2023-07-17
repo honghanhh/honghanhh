@@ -13,7 +13,7 @@
 
  #### 💫About Me :
 - <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> Just a data enthusiast who is wandering around github 👋👋👋
-- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> 2022 Goals: Let's make weird ideas come true 🤣🤣🤣
+- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> 2023 Goals: Let's make weird ideas come true 🤣🤣🤣
 - <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> Fun facts: I am a food lover and travelaholic 👋👋👋
 
 #### 💻 Tech Stack
@@ -24,6 +24,12 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
+
+#### Programme Committee/Review:
+- [Computational Terminology in NLP & Translation Studies (ConTeNTS) at RANLP 2023](https://contents2023.kulak.kuleuven.be/)
+- [Third Workshop on Language Technology for Equality, Diversity and Inclusion (LT-EDI-2023) at RANLP 2023](https://sites.google.com/view/lt-edi-2023/)
+- [SemEval 2023: The 17th International Workshop on Semantic Evaluation at ACL 2023](https://semeval.github.io/SemEval2023/)
+- [Slavic NLP 2023: The 9th Workshop on Slavic Natural Language Processing 2023 at EACL 2023](http://bsnlp.cs.helsinki.fi/)
 
 #### 📊 GitHub Stats :
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=honghanhh&show_icons=true&hide_border=true" />
