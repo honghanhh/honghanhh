@@ -26,6 +26,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
 
 #### Programme Committee/Review:
+- [The 2023 Conference on Empirical Methods in Natural Language Processing](https://2023.emnlp.org/)
 - [Computational Terminology in NLP & Translation Studies (ConTeNTS) at RANLP 2023](https://contents2023.kulak.kuleuven.be/)
 - [Third Workshop on Language Technology for Equality, Diversity and Inclusion (LT-EDI-2023) at RANLP 2023](https://sites.google.com/view/lt-edi-2023/)
 - [SemEval 2023: The 17th International Workshop on Semantic Evaluation at ACL 2023](https://semeval.github.io/SemEval2023/)
