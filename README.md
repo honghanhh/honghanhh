@@ -13,7 +13,7 @@
 
  #### 💫About Me :
 - <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> Just a data enthusiast who is wandering around github 👋👋👋
-- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> 2023 Goals: Let's make weird ideas come true 🤣🤣🤣
+- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> 2024 Goals: Let's make weird ideas come true 🤣🤣🤣
 - <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> Fun facts: I am a food lover and travelaholic 👋👋👋
 
 #### 💻 Tech Stack
@@ -25,12 +25,10 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
 
-#### Programme Committee/Review:
-- [The 2023 Conference on Empirical Methods in Natural Language Processing](https://2023.emnlp.org/)
-- [Computational Terminology in NLP & Translation Studies (ConTeNTS) at RANLP 2023](https://contents2023.kulak.kuleuven.be/)
-- [Third Workshop on Language Technology for Equality, Diversity and Inclusion (LT-EDI-2023) at RANLP 2023](https://sites.google.com/view/lt-edi-2023/)
-- [SemEval 2023: The 17th International Workshop on Semantic Evaluation at ACL 2023](https://semeval.github.io/SemEval2023/)
-- [Slavic NLP 2023: The 9th Workshop on Slavic Natural Language Processing 2023 at EACL 2023](http://bsnlp.cs.helsinki.fi/)
+#### Programme Committee/Review/Co-chair:
+- Conferences:  [LREC 2022](https://lrec2022.lrec-conf.org/en/), [EMNLP 2023](https://2023.emnlp.org/),  [ICPR 2024](https://icpr2024.org/), [ECAI 2024](https://www.ecai2024.eu/), [CONLL 2024](https://conll.org/)
+- Workshops:  [ConTeNTS 2023](https://contents2023.kulak.kuleuven.be/),  [SlavicNLP 2023](http://bsnlp.cs.helsinki.fi/),  [LT-EDI 2023](https://sites.google.com/view/lt-edi-2023/),  [SemEval 2023, 2024](https://semeval.github.io/SemEval2023/), [TextGraphs-17 2024](https://sites.google.com/view/textgraphs2024)
+- Summer schools: [ESSLI 2024](https://2024.esslli.eu/)
 
 #### 📊 GitHub Stats :
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=honghanhh&show_icons=true&hide_border=true" />
