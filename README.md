@@ -1,6 +1,7 @@
-### Hello, I'm HONG HANH <img src="https://media.giphy.com/media/KyCKg4Z3rmyrXMUNuk/source.gif" width="40"></h2>
+### Hello, I'm HANH TRAN <img src="https://media.giphy.com/media/KyCKg4Z3rmyrXMUNuk/source.gif" width="40"></h2>
 <img align='right' width="200">
-<p><em>Joint PhD funding at <a href="http://univ-larochelle.fr/">University of La Rochelle</a>  and <a href="https://www.ijs.si/ijsw/JSI">Jožef Stefan Institute</a>.
+<p><em>NLP Engineer at <a href="https://www.arkhn.com/">ARKHN</a>.
+<p><em>PhD at <a href="http://univ-larochelle.fr/">University of La Rochelle</a>  and <a href="https://www.ijs.si/ijsw/JSI">Jožef Stefan Institute</a>.
 </em></p>
 
 #### 🌐 Socials
