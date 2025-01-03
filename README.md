@@ -14,7 +14,7 @@
 
  #### 💫About Me :
 - <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> Just a data enthusiast who is wandering around github 👋👋👋
-- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> 2024 Goals: Let's make weird ideas come true 🤣🤣🤣
+- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> 2025 Goals: Let's make weird ideas come true 🤣🤣🤣
 - <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> Fun facts: I am a food lover and travelaholic 👋👋👋
 
 #### 💻 Tech Stack
