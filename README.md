@@ -21,3 +21,10 @@
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=honghanhh&show_icons=true&hide_border=true" />
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=honghanhh&show_icons=true&locale=en&layout=compact&hide_border=true" alt="honghanhh" /> -->
 <!-- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=honghanhh&show_icons=true&locale=en&layout=compact&hide_border=true" alt="honghanhh" /> -->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/honghanhh/honghanhh/refs/heads/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/honghanhh/honghanhh/refs/heads/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/honghanhh/honghanhh/refs/heads/output/github-snake.svg">
+</picture>
