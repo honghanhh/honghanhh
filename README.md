@@ -12,7 +12,7 @@
 
 
 #### 🌐 Programme Committee/Review/Co-chair:
-- Conferences:  [LREC 2022](https://lrec2022.lrec-conf.org/en/), [EMNLP 2023](https://2023.emnlp.org/),  [ICPR 2024](https://icpr2024.org/), [ECAI 2024](https://www.ecai2024.eu/), [CONLL 2024 & 2025](https://conll.org/)
+- Conferences:  [EMNLP 2023](https://2023.emnlp.org/),  [ICPR 2024](https://icpr2024.org/), [ECAI 2024](https://www.ecai2024.eu/), [CONLL 2024 & 2025](https://conll.org/), [LREC 2022, 2024 & 2026](https://lrec2026.info/),
 - Workshops:  [ConTeNTS 2023](https://contents2023.kulak.kuleuven.be/),  [SlavicNLP 2023](http://bsnlp.cs.helsinki.fi/),  [LT-EDI 2023](https://sites.google.com/view/lt-edi-2023/),  [SemEval 2023, 2024](https://semeval.github.io/SemEval2023/), [TextGraphs-17 2024](https://sites.google.com/view/textgraphs2024)
 - Summer schools: [ESSLI 2024](https://2024.esslli.eu/)
 
