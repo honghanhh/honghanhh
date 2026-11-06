@@ -10,7 +10,7 @@ on:
     
   # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 0 */7 * *" 
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
